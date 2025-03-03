@@ -42,8 +42,30 @@ output for my friend:
 2.
 ![image](https://github.com/user-attachments/assets/fb527582-148f-4af4-90ed-9e25ab21d45f)
 
+Step 5:run ml-model.py
+
+use commands : build,push,pull 
+
+*docker build -t dharaneesh1318/22it006-ml-model:latest .
+
+![image](https://github.com/user-attachments/assets/9762756a-96bf-44a4-9fe9-5cfe147e5be4)
 
 
+*docker push dharaneesh1318/22it006-ml-model:latest
+
+![image](https://github.com/user-attachments/assets/ce81f3bd-fe5e-4224-aa6c-36b92fd8283d)
+
+
+*docker pull dharaneesh1318/22it006-ml-model:latest
+
+![image](https://github.com/user-attachments/assets/5b5d205a-0021-4859-b9a3-668a4a96114d)
+
+
+MAIN COMMAND :docker run dharaneesh1318/22it006-ml-model:latest
+
+OUTPUT:
+
+![image](https://github.com/user-attachments/assets/2a04a5fa-43e3-415d-8ee4-3e98333743e4)
 
 
 
