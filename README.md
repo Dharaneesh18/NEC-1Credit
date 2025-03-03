@@ -20,7 +20,7 @@ dep:
 
 ![image](https://github.com/user-attachments/assets/ff60ce50-458c-49f6-9ff8-4b920188b357)
 
-Step 3:update yml code
+Step 3:COMPOSE yml code
 ![image](https://github.com/user-attachments/assets/cec3c89a-2bec-444d-adb0-682a5998e5a6)
 
 *use command :docker pull,docker image,docker compose,docker compose-d
@@ -42,7 +42,7 @@ output for my friend:
 2.
 ![image](https://github.com/user-attachments/assets/fb527582-148f-4af4-90ed-9e25ab21d45f)
 
-Step 5:run ml-model.py
+Step 4:run ml-model.py
 
 use commands : build,push,pull 
 
