@@ -68,7 +68,7 @@ OUTPUT:
 ![image](https://github.com/user-attachments/assets/2a04a5fa-43e3-415d-8ee4-3e98333743e4)
 
 
-*4.DOCKER HUB USRENAME : dharaneesh1318
+*4.DOCKER HUB USERNAME : dharaneesh1318
 
 
 *5.dockerhub screenshot
