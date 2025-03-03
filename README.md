@@ -23,7 +23,7 @@ dep:
 Step 3:COMPOSE yml code
 ![image](https://github.com/user-attachments/assets/cec3c89a-2bec-444d-adb0-682a5998e5a6)
 
-*use command :docker pull,docker image,docker compose,docker compose-d
+*use command :1:docker compose,2;docker push,3;docker pull :docker image,docker compose-d
 ![image](https://github.com/user-attachments/assets/5def76b0-c7c7-46ae-a7a5-05bdbcb93dea)
 
 output for me :
