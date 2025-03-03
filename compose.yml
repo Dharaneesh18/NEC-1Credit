@@ -1,1 +1,16 @@
-Update this file to add the content
+version: '3.8'
+
+services:
+  flask-app:
+    image: dharaneesh1318/personal-api:latest
+    container_name: personal-api-container
+    ports:
+      - "5001:5000"  
+    restart: always
+
+  bhuvi:
+    image: bhuvi1318/22it041-personal-api:latest
+    container_name: bhuvi-container
+    ports:
+      - "5000:5000"  
+    restart: always
